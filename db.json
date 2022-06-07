@@ -1,20 +1,8 @@
 {
   "todo": [
     {
-      "todo": "Hello",
+      "todo": "Milk",
       "id": 1
-    },
-    {
-      "todo": "Hello",
-      "id": 2
-    },
-    {
-      "todo": "Hello",
-      "id": 3
-    },
-    {
-      "todo": "Hello",
-      "id": 4
     }
   ]
 }
